@@ -1,8 +1,8 @@
-# Political Context and Time: A Multi-National Computational Study of Gaza War Framing
+# Political Environments and Event Dynamics: A Multi-National Computational Study of Gaza War Framing
 
 This repository contains the code accompanying the article:
 
-> **Political Context and Time: A Multi-National Computational Study of Gaza War Framing**
+> **Political Environments and Event Dynamics: A Multi-National Computational Study of Gaza War Framing**
 
 **Article:** *Link will be added upon publication.*
 
