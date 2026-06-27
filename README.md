@@ -1,9 +1,31 @@
 # Framing Gaza
 
-<h1>Framing the Gaza Conflict Across Time and Political Contexts: A Transformer-Based Natural Language Processing Approach</h1>
+<h1>Political Context and Time: A Multi-National Computational Study of Gaza War
+Framing</h1>
 
-**Abstract**<br />This paper emphasizes the strategic role of media in public diplomacy in the context of war. News media worldwide continue to play a decisive role in shaping narratives instrumentalized and perceived. Especially in the context of war and conflict, understanding interactions between political contexts and news framing is crucial in view of various national interests and public diplomacy – yet underrepresented in research. This paper aims to investigate differences in the framing of Gaza in news articles (N = 47,439) of 22 mainstream online news media, considering political contexts, analyzing text data from October 7, 2023 onwards. Benchmarking fine-tuned state-of-the-art transformer models allowed a dual-labeling approach of natural language processing tasks based on supervised machine learning to classify news articles. Findings reveal that media narratives partly align with news outlets’ national compliance. Moreover, news media with a democratic background differ from those with a non-democratic background on this matter.
+**Abstract**<br />How do media narratives of war evolve in response to events on the battlefield or to
+the political environments in which journalism is produced? While research on conflict
+framing has largely focused on individual countries or short periods of coverage, less is
+known about the relative importance of temporal dynamics and political context in
+shaping international news framing. This study addresses that question through a
+longitudinal, cross-national analysis of 45,714 English-language news articles published
+by 21 mainstream news outlets across 14 countries between October 7, 2023, and August
+11, 2025. Using supervised transformer-based natural language processing, we identify
+eight conflict-specific news frames and examine their variation across six phases of the
+Gaza war, countries' political alignment toward Israel and Palestine, and political regime
+type. We find that conflict framing remained remarkably stable over time despite major
+military, legal, and diplomatic developments. By contrast, political alignment was
+consistently associated with substantial differences in framing: pro-Israel, pro-Palestine,
+and politically balanced outlets emphasized distinct dimensions of the conflict, whereas
+differences across political systems were more nuanced than a simple democracy-
+autocracy divide. These findings suggest that international conflict reporting is shaped less by the changing trajectory of war than by the political contexts within which news
+organizations operate. By integrating computational text analysis with theories of media-
+politics relations, this study extends research on conflict framing, indexing, and
+international political communication, demonstrating that political alignment is a stronger
+correlate of cross-national framing than temporal developments in protracted armed
+conflict.
 
-**Keywords**<br />Framing, Gaza, Media Diplomacy, War in Media, Text as Data, Social Data Science
+**Keywords**<br />Framing, Bias, Gaza, War and Conflict, International Relations, Media and Politics, News
+Media, Text as Data, Computational Social Science
 
 **Link to research article: tbd.**
