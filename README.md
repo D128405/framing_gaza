@@ -1,4 +1,4 @@
-# Political Environments and Event Dynamics: A Multi-National Computational Study of Gaza War Framing
+# Frame Stability and Political Environments in Cross-National Coverage of the Gaza War
 
 This repository contains the code accompanying the article:
 
@@ -27,7 +27,7 @@ The repository is intended to facilitate computational reproducibility of the ma
 
 How do media narratives of war respond to battlefield events versus the political environments in which journalism is produced? Conflict-framing research has largely focused on individual countries or short time windows, leaving the relative weight of these forces underexplored. This study addresses that gap through a longitudinal, cross-national analysis of 45,714 English-language news articles from 21 mainstream outlets across 14 countries (October 7, 2023–August 11, 2025). Using supervised transformer-based natural language processing, we identify eight conflict-specific frames and examine their variation across six phases of the Gaza war, political alignment toward Israel and Palestine, and regime type. Conflict framing remained stable across phases despite major military, legal, and diplomatic developments. Political alignment was associated with substantial group-level differences: pro-Israel, pro-Palestine, and balanced outlets emphasized distinct dimensions of the conflict, while political-system differences did not reduce to a democracy-autocracy divide. Because alignment and regime type are outlet-level attributes estimated from a limited number of outlets, these patterns are strongest as between-group contrasts. Once outlet clustering is modeled, a robust subset survives – most clearly the heightened military framing of pro-Israel outlets and the reduced human-interest framing of more democratic outlets. These findings suggest international conflict reporting is shaped less by the trajectory of war than by the political environments in which news organizations operate, carried by a small set of influential outlets. Integrating computational text analysis with theories of media-politics relations, this study extends research on conflict framing, indexing, and international political communication.
 
-**Keywords:** Framing; Media Bias; Gaza; War and Conflict; International Relations; Political Communication; Text as Data; Computational Social Science
+**Keywords:** Gaza War; Conflict Framing; Strategic Narrative; Global News Flows; Indexing; Computational Content Analysis
 
 ---
 
