@@ -2,7 +2,7 @@
 
 This repository contains the code accompanying the article:
 
-> **Political Environments and Event Dynamics: A Multi-National Computational Study of Gaza War Framing**
+> **Frame Stability and Political Environments in Cross-National Coverage of the Gaza War**
 
 **Article:** *Link will be added upon publication.*
 
