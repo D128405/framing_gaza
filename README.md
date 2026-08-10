@@ -25,7 +25,19 @@ The repository is intended to facilitate computational reproducibility of the ma
 
 ## Abstract
 
-How do media narratives of war respond to battlefield events versus the political environments in which journalism is produced? Conflict-framing research has largely focused on individual countries or short time windows, leaving the relative weight of these forces underexplored. This study addresses that gap through a longitudinal, cross-national analysis of 45,714 English-language news articles from 21 mainstream outlets across 14 countries (October 7, 2023–August 11, 2025). Using supervised transformer-based natural language processing, we identify eight conflict-specific frames and examine their variation across six phases of the Gaza war, political alignment toward Israel and Palestine, and regime type. Conflict framing remained stable across phases despite major military, legal, and diplomatic developments. Political alignment was associated with substantial group-level differences: pro-Israel, pro-Palestine, and balanced outlets emphasized distinct dimensions of the conflict, while political-system differences did not reduce to a democracy-autocracy divide. Because alignment and regime type are outlet-level attributes estimated from a limited number of outlets, these patterns are strongest as between-group contrasts. Once outlet clustering is modeled, a robust subset survives – most clearly the heightened military framing of pro-Israel outlets and the reduced human-interest framing of more democratic outlets. These findings suggest international conflict reporting is shaped less by the trajectory of war than by the political environments in which news organizations operate, carried by a small set of influential outlets. Integrating computational text analysis with theories of media-politics relations, this study extends research on conflict framing, indexing, and international political communication.
+How do global news media narrate a war, and does that narration move with events? This
+study maps the framing of the Gaza War across the global elite information sphere: the
+internationally circulated, agenda-setting English-language outlets through which
+diplomats, policymakers, and transnational audiences encounter the conflict. Eight
+conflict frames are classified in 45,714 articles from 21 outlets across 14 countries and
+territories (October 2023–August 2025) and modeled across six war phases, political
+alignment toward Israel and Palestine, and regime type. The central finding is stability: a
+durable core of military, violence-of-war, and self-referential framing persisted through
+two years of military, legal, and diplomatic shocks. Such variation as exists tracks political
+environment rather than events; most robustly, pro-Israel outlets carried heightened
+military framing and more democratic outlets reduced human-interest framing. For
+strategic narratives, public diplomacy, and hopes of media-driven conflict resolution,
+international coverage emerges as hard, pre-committed terrain.
 
 **Keywords:** Gaza War; Conflict Framing; Strategic Narrative; Global News Flows; Indexing; Computational Content Analysis
 
